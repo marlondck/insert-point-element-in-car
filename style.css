@@ -1,0 +1,16 @@
+.bolinha {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: red;
+  position: absolute;
+}
+
+.faltando {
+  transform: translate(20px, 327px)
+}
+
+.quebrado {
+  transform: translate(400px, 120px)
+}
+
